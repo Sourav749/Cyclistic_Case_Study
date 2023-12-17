@@ -47,6 +47,7 @@ Execute various queries for analysis; you can find all queries [here](https://gi
 
 Thank you for your engagement with this ReadMe. Your feedback is crucial to my growth as an analyst. 
 You can find presentation slides [here](https://www.canva.com/design/DAF201SGoaM/YiuNEmUDpGCK8ItPZiSsTw/view?utm_content=DAF201SGoaM&utm_campaign=designshare&utm_medium=link&utm_source=editor). 
+
 Also created a presentation video and post on LinkedIn feel free to check [here](https://www.linkedin.com/posts/sourav-kumar-sahoo_dataanalysis-googledataanalytics-capstoneproject-activity-7141407993643872256-Epln?utm_source=share&utm_medium=member_desktop)
 Your support is greatly appreciated!
 
