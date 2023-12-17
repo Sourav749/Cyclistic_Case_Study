@@ -22,17 +22,17 @@ This is public data that can be used to explore how different customer types are
 
 I collected data for 12 months, each in a separate CSV file. Initially, I merged these files using Windows PowerShell. Following that, I established a table in SQL Server Management Studio [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16) and proceeded to import the data through the bulk insert.
 
-Here is the query - Click here
+Here is the query - [Click here](https://github.com/Sourav749/Cyclistic_Case_Study/blob/main/Creat_Table.sql)
 
 ## Data Cleaning and Transformation
 
 Establish a new table and insert the necessary columns for analysis. Remove irrelevant columns and extract information such as "startDate," "startDay," and "startMonth" from the "started_at" column. Additionally, include a new "duration" column in the dataset.
 
-Here is the query - Click here
+Here is the query - [Click here](https://github.com/Sourav749/Cyclistic_Case_Study/blob/main/Transformation.sql)
 
 ## Analysis
 
-Execute various queries for analysis; you can find all queries here.
+Execute various queries for analysis; you can find all queries [here](https://github.com/Sourav749/Cyclistic_Case_Study/blob/main/Analysis.sql).
 
 ## Insight
 
